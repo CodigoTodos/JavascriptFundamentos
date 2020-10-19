@@ -1,0 +1,26 @@
+//console.log("CódigoParaTodos")
+//console.log("Bem Vindos Curso Javascript")
+
+//Comentários uma linha
+
+/*
+Comentários Várias Linhas
+*/
+
+/*Variáveis
+ Apenas devem conter letras digitos 
+ou simbolos ($ e _ )
+
+Primeiro Carater não deve ser um digito
+
+*/
+let nome ="Joaquim"
+let idade = 25  
+console.log(nome)
+console.log(idade)
+
+//Constantes
+const anoNascimento = 1980
+idade=30
+console.log(idade)
+

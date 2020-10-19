@@ -1,0 +1,16 @@
+//Operadores de comparação 
+//(>, <, >=, <=, ==, !=, ===, !==)
+
+console.log (1>2)
+console.log (3<4)
+let a = 3
+let b = 4
+console.log (a>=b)
+console.log (a<=b)
+
+/*let c = 2
+let d = "2"
+console.log (c==d) // Compara apenas o valor
+console.log (c===d) // Compara o valor e o tipo 
+console.log (c!=d)
+console.log (c!==d)*/

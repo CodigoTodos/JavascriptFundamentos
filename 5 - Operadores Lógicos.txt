@@ -1,0 +1,18 @@
+//Operadores lógicos 
+// ||, && e !
+
+// || significa ou 
+/*console.log(false || false)
+console.log(false || true)
+console.log(true || false)
+console.log(true || true)*/
+
+// && significa e 
+/*console.log(false && false)
+console.log(false && true)
+console.log(true && false)
+console.log(true && true)*/
+
+// ! significa inverso 
+console.log(!false)
+console.log(!true)

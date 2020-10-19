@@ -1,0 +1,14 @@
+//Tipos de Dados Primitivos Javascript 
+
+let num = 7 // Number
+let mensagem = "Novo Curso" //String
+let ativo =true //boolean 
+let x;// undefined - "Valor não atribuido"
+var a = null; // Null - "Nulo" ou "Vazio" 
+
+console.log("num: " + typeof(num)) 
+console.log("Mensagem: " + typeof(mensagem)) 
+console.log("ativo: " + typeof(ativo))
+console.log("x: "+ typeof(x)) 
+console.log("a: "+ typeof(a))
+console.log("null: "+ typeof(null))

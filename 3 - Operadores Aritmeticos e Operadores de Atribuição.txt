@@ -1,0 +1,21 @@
+//Operadores Aritméticos 
+
+/*let a = 10
+let b = 2
+
+console.log(a+b) //Soma
+console.log(a-b) //Subtração
+console.log(a*b)//Multiplicação
+console.log(a/b)//Divisão
+console.log(a%b)//Resto da Divisão
+console.log(a**b)//Exponenciação 
+console.log(++a)//Incremento
+console.log(--b)//Decremento*/
+
+//Operadores de ATribuição
+let c=10
+console.log(c+=1) //c=c+1
+console.log(c-=1) 
+console.log(c*=2) 
+console.log(c/=5) 
+console.log(c%=2) 

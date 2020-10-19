@@ -1,0 +1,15 @@
+//Estruturas Condicionais 
+// if else else if
+let a = 9
+if (a<3) {
+ console.log("Dentro do if")
+}
+else if (a<10)
+{
+  console.log("Dentro do elseif")
+}
+else {
+  console.log("Dentro do else")
+}
+
+a<3 ? console.log("Verdade") : console.log("Falso") 
